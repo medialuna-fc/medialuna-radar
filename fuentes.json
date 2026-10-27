@@ -1,0 +1,142 @@
+{
+  "_nota": "Fuentes del radar. `rss` = feed directo; `gnews` = búsqueda en Google Noticias (sale como «Titular - Medio»). Añade o quita sin tocar el código.",
+  "rss": [
+    {
+      "medio": "Marca",
+      "url": "https://e00-marca.uecdn.es/rss/futbol/primera-division.xml"
+    },
+    {
+      "medio": "Marca Internacional",
+      "url": "https://e00-marca.uecdn.es/rss/futbol/futbol-internacional.xml"
+    },
+    {
+      "medio": "Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/feed/rss/futbol"
+    },
+    {
+      "medio": "BBC Sport",
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml"
+    },
+    {
+      "medio": "ESPN",
+      "url": "https://www.espn.com/espn/rss/soccer/news"
+    },
+    {
+      "medio": "Sky Sports",
+      "url": "https://www.skysports.com/rss/12040"
+    },
+    {
+      "medio": "AS",
+      "url": "https://feeds.as.com/mrss-s/pages/as/site/as.com/section/futbol/portada/"
+    },
+    {
+      "medio": "Marca Fichajes",
+      "url": "https://e00-marca.uecdn.es/rss/futbol/mercado-fichajes.xml"
+    },
+    {
+      "medio": "The Guardian",
+      "url": "https://www.theguardian.com/football/rss"
+    },
+    {
+      "medio": "Sports Mole",
+      "url": "https://www.sportsmole.co.uk/football/rss.xml"
+    },
+    {
+      "medio": "FourFourTwo",
+      "url": "https://www.fourfourtwo.com/feeds/all"
+    }
+  ],
+  "gnews": [
+    "LaLiga",
+    "Real Madrid",
+    "Barcelona",
+    "Premier League",
+    "Serie A",
+    "Bundesliga",
+    "Ligue 1",
+    "Champions League",
+    "fichajes",
+    "lesión futbolista",
+    "selección convocatoria",
+    "Mundial 2026",
+    "Mbappé",
+    "Yamal",
+    "Haaland",
+    "Messi",
+    "Cristiano Ronaldo"
+  ],
+  "gnews_params": "hl=es-419&gl=CO&ceid=CO:es-419",
+  "ventana_horas": 8,
+  "solo_futbol": [
+    "Marca",
+    "Marca Internacional",
+    "Marca Fichajes",
+    "Mundo Deportivo",
+    "BBC Sport",
+    "ESPN",
+    "Sky Sports",
+    "AS",
+    "The Guardian",
+    "Sports Mole",
+    "FourFourTwo"
+  ],
+  "puerta_futbol": [
+    "futbol",
+    "fútbol",
+    "football",
+    "soccer",
+    "liga",
+    "champions",
+    "premier",
+    "serie a",
+    "bundesliga",
+    "ligue",
+    "partido",
+    "gol",
+    "goles",
+    "jugador",
+    "entrenador",
+    "fichaje",
+    "fichar",
+    "selección",
+    "seleccion",
+    "lesión",
+    "árbitro",
+    "arbitro",
+    "estadio",
+    "temporada",
+    "jornada",
+    "convocatoria",
+    "técnico",
+    "delantero",
+    "portero",
+    "defensa",
+    "centrocampista",
+    "copa del mundo",
+    "mundial 2026",
+    "eliminatorias"
+  ],
+  "ruido": [
+    "beisbol",
+    "béisbol",
+    "baseball",
+    "nba",
+    "nfl",
+    "serie mundial",
+    "cerveceros",
+    "tenis",
+    "fórmula 1",
+    "formula 1",
+    "motogp",
+    "boxeo",
+    "ufc",
+    "wwe",
+    "rugby",
+    "cricket",
+    "golf",
+    "ciclismo",
+    "disturbios",
+    "cárcel",
+    "sensei"
+  ]
+}

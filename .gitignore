@@ -1,0 +1,6 @@
+.env
+.env.*
+estado.json
+alertas.md
+salida/
+node_modules/

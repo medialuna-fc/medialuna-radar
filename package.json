@@ -1,0 +1,1 @@
+{"name": "medialuna-radar", "version": "1.0.0", "private": true, "type": "module", "description": "Radar de noticias de fútbol: detecta tendencias en feeds RSS y redacta borradores. No publica nada.", "engines": {"node": ">=20"}, "scripts": {"radar": "node radar.mjs"}}

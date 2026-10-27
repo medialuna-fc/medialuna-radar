@@ -1,0 +1,13 @@
+{
+  "_nota": "Clubes y selecciones que pesan más en la puntuación (nombres tal como salen en la prensa).",
+  "grandes": ["Real Madrid", "Barcelona", "Barça", "Atlético", "Manchester City", "Manchester United", "Liverpool", "Arsenal", "Chelsea", "Tottenham", "Bayern", "Dortmund", "PSG", "Juventus", "Inter", "Milan", "Napoli", "Roma", "Leverkusen", "Marsella", "Mónaco", "Newcastle", "Aston Villa"],
+  "selecciones": ["Argentina", "Brasil", "España", "Francia", "Inglaterra", "Portugal", "Alemania", "Colombia", "Uruguay", "México", "Italia", "Países Bajos", "Croacia", "Marruecos"],
+  "estrellas": ["Messi", "Cristiano", "Mbappé", "Yamal", "Haaland", "Vinícius", "Bellingham", "Kane", "Lewandowski", "Raphinha", "Salah", "Neymar", "Dembélé", "Pedri", "Rodri", "Álvarez", "Griezmann", "Osimhen"],
+  "palabras": {
+    "fichaje": ["ficha", "fichaje", "fichar", "traspaso", "cesión", "cedido", "here we go", "oferta", "acuerdo", "renueva", "renovación", "rescisión", "transfer", "signs", "deal", "agrees"],
+    "lesion": ["lesión", "lesionado", "baja", "operado", "injury", "injured", "ruled out", "fuera"],
+    "sancion": ["sanción", "sancionado", "expulsado", "suspende", "suspendido", "ban", "red card"],
+    "entrenador": ["entrenador", "destituido", "destitución", "despide", "cesado", "sacked", "manager", "técnico"],
+    "polemica": ["polémica", "bronca", "pelea", "denuncia", "furioso", "acusa", "arbitro", "árbitro", "var"]
+  }
+}
